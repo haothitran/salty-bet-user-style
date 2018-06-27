@@ -1,0 +1,37 @@
+/* -----------------------------------------------------------------------------
+-- // SALTY BET USER STYLE
+----------------------------------------------------------------------------- */
+
+#stream {
+  left: 0 !important;
+  top: 43px !important;
+  right: 30% !important;
+  bottom: 220px !important;
+  width: 70% !important;
+  max-width: none !important;
+}
+
+#chat-wrapper {
+  margin-top: 43px !important;
+  top: 0 !important;
+  width: 30% !important;
+  height: 65% !important;
+  font-size: 12px !important;
+}
+
+#sbettorswrapper {
+  margin-top: 40px !important;
+  left: 70% !important;
+  top: 65% !important;
+  bottom: 220px !important;
+  width: 30% !important;
+  font-size: 14px !important;
+  position: absolute !important;
+}
+
+#bottomcontent {
+  left: 0 !important;
+  right: 30% !important;
+  bottom: 43px !important;
+  width: 100% !important;
+}
